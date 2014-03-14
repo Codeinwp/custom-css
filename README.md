@@ -1,4 +1,5 @@
 # Custom CSS by Dev7studios
+
 Contributors: dev7studios
 Tags: custom, css, editor, customize, theme
 Requires at least: 3.7
