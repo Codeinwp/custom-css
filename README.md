@@ -1,4 +1,4 @@
-=== Custom CSS by Dev7studios ===
+# Custom CSS by Dev7studios
 Contributors: dev7studios
 Tags: custom, css, editor, customize, theme
 Requires at least: 3.7
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The Custom CSS plugin allows you to customize the appearance of your theme without the need to create a child theme
 or worry about theme updates overwriting your customizations.
 
-== Description ==
+## Description
 
 We all know that feeling, you've just installed a new theme and you want to start making some small tweaks and changes.
 A lot of the time these visual changes can be done using just CSS. This is where the Custom CSS plugin comes in.
@@ -26,17 +26,17 @@ hit save. Easy peasy. Features include:
 * Setting to minify output on the fly (for improved performance)
 * Preview changes before saving
 
-== Installation ==
+## Installation
 
 1. Go to Plugins > Add New > Upload and choose the `dev7-custom-css.zip` package
 2. Upload and activate the plugin
 3. Go to Appearance > Custom CSS to start making changes
 
-== Screenshots ==
+## Screenshots
 
 1. Custom CSS Editor
 
-== Changelog ==
+## Changelog
 
-= 1.0 =
+### 1.0
 * Initial release.
