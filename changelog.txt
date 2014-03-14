@@ -1,0 +1,4 @@
+*** Custom CSS WordPress Plugin Changelog ***
+
+2013.12.02 - version 1.0
+ * Initial release

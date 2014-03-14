@@ -1,0 +1,26 @@
+.CodeMirror,
+#dev7_custom_css_content {
+	font-family: Consolas, Monaco, monospace;
+	font-size: 12px;
+	line-height: 16px;
+	width: 100%;
+	min-height: 300px;
+}
+.CodeMirror {
+	border: 1px solid #ddd;
+}
+
+#dev7-custom-css-form .hndle { cursor: default; }
+#dev7-custom-css-form #minify-display { font-weight: bold; }
+
+.dev7-custom-css-clearfix:before,
+.dev7-custom-css-clearfix:after {
+    content: " ";
+    display: table;
+}
+.dev7-custom-css-clearfix:after {
+    clear: both;
+}
+.dev7-custom-css-clearfix {
+    *zoom: 1;
+}
