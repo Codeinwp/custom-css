@@ -26,7 +26,7 @@ hit save. Easy peasy. Features include:
 * Setting to minify output on the fly (for improved performance)
 * Preview changes before saving
 
-Russian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
+Serbian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
 
 == Installation ==
 
@@ -41,7 +41,7 @@ Russian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
 == Changelog ==
 
 = 1.1 (14.03.2014) =
-* [Improved] - Russian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
+* [Improved] - Serbian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
 
 = 1.0 =
 * Initial release.
