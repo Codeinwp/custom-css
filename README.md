@@ -1,12 +1,12 @@
 # Custom CSS by Dev7studios
 
-Contributors: dev7studios
-Tags: custom, css, editor, customize, theme
-Requires at least: 3.7
-Tested up to: 3.7.1
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: dev7studios<br>
+Tags: custom, css, editor, customize, theme<br>
+Requires at least: 3.7<br>
+Tested up to: 3.7.1<br>
+Stable tag: 1.0<br>
+License: GPLv2 or later<br>
+License URI: http://www.gnu.org/licenses/gpl-2.0.html<br>
 
 The Custom CSS plugin allows you to customize the appearance of your theme without the need to create a child theme
 or worry about theme updates overwriting your customizations.
