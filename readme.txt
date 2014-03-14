@@ -2,8 +2,8 @@
 Contributors: dev7studios
 Tags: custom, css, editor, customize, theme
 Requires at least: 3.7
-Tested up to: 3.7.1
-Stable tag: 1.0
+Tested up to: 3.8.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,8 @@ hit save. Easy peasy. Features include:
 * Setting to minify output on the fly (for improved performance)
 * Preview changes before saving
 
+Russian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
+
 == Installation ==
 
 1. Go to Plugins > Add New > Upload and choose the `dev7-custom-css.zip` package
@@ -37,6 +39,9 @@ hit save. Easy peasy. Features include:
 1. Custom CSS Editor
 
 == Changelog ==
+
+= 1.1 (14.03.2014) =
+* [Improved] - Russian and Spanish translations by [firstsiteguide.com](firstsiteguide.com)
 
 = 1.0 =
 * Initial release.

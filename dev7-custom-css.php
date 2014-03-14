@@ -3,7 +3,7 @@
 Plugin Name: Custom CSS by Dev7studios
 Plugin URI: http://dev7studios.com/plugins/custom-css
 Description: Customise your theme appearance without worrying about theme updates overwriting your customizations.
-Version: 1.0
+Version: 1.1
 Author: Dev7studios
 Author URI: http://dev7studios.com
 License: GPL2
@@ -18,7 +18,7 @@ class Dev7CustomCSS {
 
     function __construct()
     {
-        $this->plugin_version = '1.0';
+        $this->plugin_version = '1.1';
         $this->plugin_path = plugin_dir_path( __FILE__ );
         $this->plugin_url = plugin_dir_url( __FILE__ );
         load_plugin_textdomain( 'dev7-custom-css', false, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
